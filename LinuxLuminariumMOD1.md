@@ -20,7 +20,7 @@ pwn.college{km55fhjZTqZfzROAyrjObtJLAAC.QX3YjM1wiNyAzNzEzW}
 
 ### New Learnings
 I learned how to connect my terminals ssh key to pwn college and solve the websites problems through my computer. I also learned that typing whoami returns hacker.   
-### References  
+  
 
 
   ## Intro To Arguements
@@ -54,7 +54,7 @@ hacker@hello~intro-to-commands:~$
 
 ### New Learnings
 I learned the difference between commands and arguements. I also learned that the echo command returns everythign after it bacn in the terminal.  
-### References  
+  
 
 
  ## Command History
@@ -72,7 +72,7 @@ hacker@hello~command-history:~$ the flag is pwn.college{g33pXsM2G6mfdjzz2F1rqZxR
 
 ### New Learnings
 I learned that if you click the up arrow,the previous command you used in the shell history will return.  
-### References  
+ 
   
   
 
